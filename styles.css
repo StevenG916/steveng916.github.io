@@ -2,7 +2,7 @@ e/* Style the navigation bar */
 .navbar {
   width: 50%;
   background-color: rgb(65, 37, 224);
-  overflow: auto;
+  overflow: hidden;
 }
 
 /* Navbar links */
