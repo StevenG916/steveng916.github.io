@@ -26,4 +26,11 @@
     float: none;
     display: block;
   }
+  body {
+      background-image:url('DigiBloc_for_Blockchain.png');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 50%;
+      
+    }
 }
