@@ -3,11 +3,11 @@
   width: 100%;
   background-color: rgb(65, 37, 224);
   overflow: auto;
-  display: inline-block;
-}
+  }
 
 /* Navbar links */
 .navbar a {
+  display: inline-block;
   float: center;
   text-align: center;
   padding: 12px;
