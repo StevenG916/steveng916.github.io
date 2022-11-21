@@ -1,14 +1,14 @@
 /* Style the navigation bar */
 .navbar {
   width: auto;
-  background-color: rgb(65, 37, 224);
+  background-color: transparent;
   overflow: hidden;
   }
 
 /* Navbar links */
 .navbar a {
   
-  float: right;
+  float: center;
   text-align: center;
   padding: 12px;
   color: white;
