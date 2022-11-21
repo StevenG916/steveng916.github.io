@@ -1,4 +1,4 @@
-e/* Style the navigation bar */
+/* Style the navigation bar */
 .navbar {
   width: 100%;
   background-color: rgb(65, 37, 224);
@@ -27,8 +27,5 @@ e/* Style the navigation bar */
     float: none;
     display: block;
   }
-  .navbar ul{
-  display: inline-block;
-}
   
 }
