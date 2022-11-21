@@ -26,5 +26,8 @@ e/* Style the navigation bar */
     float: none;
     display: block;
   }
+  div#nav ul{
+  display: inline-block;
+}
   
 }
